@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIBasicAuth", "WebAPIBasicAuth\WebAPIBasicAuth.csproj", "{4CD32D28-7D34-460A-8772-FBB595CB2C0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallFromAjax", "CallFromAjax\CallFromAjax.csproj", "{450A8DAA-815E-4649-9C10-B8796075CCF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CD32D28-7D34-460A-8772-FBB595CB2C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD32D28-7D34-460A-8772-FBB595CB2C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD32D28-7D34-460A-8772-FBB595CB2C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD32D28-7D34-460A-8772-FBB595CB2C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{450A8DAA-815E-4649-9C10-B8796075CCF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450A8DAA-815E-4649-9C10-B8796075CCF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450A8DAA-815E-4649-9C10-B8796075CCF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450A8DAA-815E-4649-9C10-B8796075CCF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C5C23D8-ED42-477F-80A9-F4BD6EAE29DF}
+	EndGlobalSection
+EndGlobal
